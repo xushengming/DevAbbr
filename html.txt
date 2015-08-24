@@ -1,2 +1,30 @@
 HTML
 HyperText Markup Language
+
+a
+anchor
+
+b
+bold
+
+i
+italic
+
+href
+Hypertext
+
+br
+break
+
+em
+emphasize
+
+h1-6
+Headline1-6
+
+img
+image
+
+ol
+order list
+

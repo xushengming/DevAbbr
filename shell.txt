@@ -1,0 +1,34 @@
+ps
+Processes Status
+
+rm
+remove
+
+mv
+move
+
+cp
+copy
+
+chown
+change owner
+
+chmod
+change mode
+
+rsync
+remote synchronize
+
+nload
+network load
+
+mkdir
+make directory
+
+chgrp
+change group
+
+pwd
+present work directory
+
+

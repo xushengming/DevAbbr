@@ -28,9 +28,6 @@ Apache EXtensible Interaction System
 WSDL
 Web Services Description Language
 
-UDDI
-Universal Description, Discovery and Integration
-
 SEI
 Service Endpoint Interface
 　 
@@ -38,7 +35,7 @@ SIB
 Service Implementation Bean
 
 JMS
-ava Message Service
+Java Message Service
 
 SAAJ
 SOAP with Attachments API for JAVA
@@ -62,13 +59,13 @@ OASIS
 Organization for the Advancement of Structured Information Standards
 
 URL
-Uniform ResourceLocation
+Uniform Resource Location
     
 URI     
 Uniform Resource Identifier
 
 JDBC
-Java DataBaseConnectivity
+Java DataBase Connectivity
 
 JSP
 Java Server Pages
@@ -77,7 +74,7 @@ JVM
 Java Virtual Machine
 
 JRE
-Java RuntimeEnvironment
+Java Runtime Environment
 
 JSR
 Java Specification Requests
@@ -92,10 +89,7 @@ SDO
 Service Data Objects
 
 JNDI
-ava Naming & Directory Interface
-
-JMS
-Java Message Service
+Java Naming & Directory Interface
 
 JTA
 Java Transaction API
@@ -110,7 +104,7 @@ STAX
 Streaming API for XML
 
 IDL
-InterfaceDefinition Language
+Interface Definition Language
 
 API
 Application Programming Interface
@@ -137,7 +131,7 @@ FTP
 File Transfer Protocol
 
 TCP/IP
-Transmission Control Protocol/internet Protocol
+Transmission Control Protocol/Internet Protocol
 
 SMTP
 Simple Mail Transfer Protocol
@@ -221,16 +215,16 @@ DAO
 Database Access Object
 
 BPM
-BusinessProcess Management=
+BusinessProcess Management
 
 PI
-Processing Instruction=
+Processing Instruction
 
 WFC
 Windows Foundation Classes for Java
 
 WORA
-Write Once，Run Anywhere
+Write Once Run Anywhere
 
 DI
 Dependency Injection

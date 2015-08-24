@@ -1,0 +1,236 @@
+SOA
+service-oriented architecture
+
+WSPA
+Web Services Platform Architecture
+
+JCP
+Java Community Process
+
+JSR
+Java Specification Requests
+
+JAX-WS
+Java API for XML-based web services的JAVA API
+
+JAX-RPC
+Java API for XML-based RPC
+
+EJB
+Enterprise JavaBeans
+
+JAXB
+Java Architecture for XML Binding
+
+AXIS
+Apache EXtensible Interaction System
+
+WSDL
+Web Services Description Language
+
+UDDI
+Universal Description, Discovery and Integration
+
+SEI
+Service Endpoint Interface
+　 
+SIB
+Service Implementation Bean
+
+JMS
+ava Message Service
+
+SAAJ
+SOAP with Attachments API for JAVA
+
+JAXM
+Java API for XML Messaging
+
+SOAP
+Simple Object Access Protocol
+
+REST
+Representational State Transfer
+
+MTOM
+Message Transmission Optimization Mechanism
+
+QoS
+Quality of Service
+ 
+OASIS
+Organization for the Advancement of Structured Information Standards
+
+URL
+Uniform ResourceLocation
+    
+URI     
+Uniform Resource Identifier
+
+JDBC
+Java DataBaseConnectivity
+
+JSP
+Java Server Pages
+
+JVM
+Java Virtual Machine
+
+JRE
+Java RuntimeEnvironment
+
+JSR
+Java Specification Requests
+
+SEO
+Search Engine Optimization
+
+JCF
+Java Collections Framework
+
+SDO
+Service Data Objects
+
+JNDI
+ava Naming & Directory Interface
+
+JMS
+Java Message Service
+
+JTA
+Java Transaction API
+
+JAF
+Java Action FrameWork
+
+RMI
+Remote Method Interface
+
+STAX
+Streaming API for XML
+
+IDL
+InterfaceDefinition Language
+
+API
+Application Programming Interface
+
+JDK
+Java Development Kit
+
+JNI
+Java Native Interface
+
+AWT
+Abstract Windows TooleKit
+
+CVS
+Concurrent Versions System
+
+SVN
+Subversion
+
+HTTP
+HyperText Transfer Protocol
+
+FTP
+File Transfer Protocol
+
+TCP/IP
+Transmission Control Protocol/internet Protocol
+
+SMTP
+Simple Mail Transfer Protocol
+
+LAN
+Local Area Network
+
+DNS
+Domain Name Service
+
+ISP
+Internet Service Provider
+
+HTML
+HyperText Markup Language
+
+HREF
+Hypertext Reference
+
+DBCP
+DataBase Connection Pool
+
+CGLIB
+Code Generation Library
+
+SOA
+Service Oriented Architecture
+
+WSDL
+Web Service Description Language
+
+DWR
+Direct Web Remoting
+
+ORM
+Object-Relation Mapping
+
+JDO
+Java Data Object
+
+OEM
+Originality Equipment Manufacturer
+
+DTD
+Document Type Definition
+
+JMS
+Java Message Services
+
+ERP
+Enterprise Resource Planning
+
+CRM
+Customer Relationship Management
+
+OA
+Office Auto
+
+JAAS
+Java Authentication and AuthorizationService
+
+IDE
+Integration Development Environment
+
+JMX
+Java Management Extension
+
+JTS
+Java TransactionService
+
+POJO
+Plain Old Java Object
+
+VO
+Value Object
+
+UDDI
+Universal Description Discovery and Integration 。
+
+DAO
+Database Access Object
+
+BPM
+BusinessProcess Management=
+
+PI
+Processing Instruction=
+
+WFC
+Windows Foundation Classes for Java
+
+WORA
+Write Once，Run Anywhere
+
+DI
+Dependency Injection
